@@ -1,6 +1,9 @@
 [submodule "tf-module-A"]
 	path = tf-module-A
-	url = https://github.com/dy14000/tf-module-A.git
+	url = https://github.com/dy14000/tf-module-A.git	
 [submodule "tf-module-C"]
 	path = tf-module-C
 	url = https://github.com/dy14000/tf-module-C.git
+[submodule "tf-module-B"]
+	path = tf-module-B
+	url = https://github.com/dy14000/tf-module-B.git
