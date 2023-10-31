@@ -1,1 +1,1 @@
-aws_region = "ca-central-1"
+aws_region = "ap-southeast-1"
